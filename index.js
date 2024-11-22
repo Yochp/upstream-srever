@@ -13,6 +13,7 @@ app.use(
     origin: allowedOrigins,
   })
 );
+
 app.use(express.json());
 
 let categorizedData;

@@ -4,4 +4,5 @@ const NVD_Params = {
   pubEndDate: "2024-03-31T23:59:59.999Z",
   resultsPerPage: 10,
 };
+
 module.exports = { NVD_URL, NVD_Params };
